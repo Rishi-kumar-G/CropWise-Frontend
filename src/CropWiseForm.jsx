@@ -174,7 +174,7 @@ const CropWiseForm = () => {
 
       try {
         console.log('Form Data:', JSON.stringify(formData));
-        const response = await fetch('https://flow-api.mira.network/v1/flows/flows/rishi/cropwise-ai-compound?version=0.1.3', {
+        const response = await fetch('https://flow-api.mira.network/v1/flows/flows/rishi/cropwise-ai-advanced?version=0.1.1', {
           method: 'POST',
           headers: {
             'content-type': 'application/json',
