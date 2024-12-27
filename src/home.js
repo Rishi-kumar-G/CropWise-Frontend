@@ -43,7 +43,7 @@ const Home = () => {
         <h2 className='stroked-text'>AI</h2> */}
 
         <h1 style={styles.small}>
-        We use MIRA ELEMENTAL FLOW to help farmers maximize their yield and profits,<br></br> and work towards solving food shortages.
+        We use MIRA COMPOUND FLOW to help farmers maximize their yield and profits,<br></br> and work towards solving food shortages.
         </h1>
 
         <h1 style={styles.small}>
